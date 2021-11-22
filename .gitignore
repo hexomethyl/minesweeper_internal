@@ -1,0 +1,6 @@
+# Project exclude paths
+/cmake-build-debug/
+/cmake-build-release/
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/discord.xml
