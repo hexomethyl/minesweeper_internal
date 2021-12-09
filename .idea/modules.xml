@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/minesweeper_dll.iml" filepath="$PROJECT_DIR$/.idea/minesweeper_dll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/minesweeper_internal.iml" filepath="$PROJECT_DIR$/.idea/minesweeper_internal.iml" />
     </modules>
   </component>
 </project>
